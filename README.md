@@ -16,10 +16,5 @@ Advanced cursor smoothing filter with multiple modes.
 3. Restart OpenTabletDriver
 4. Filters → Enable **GodSpeed Filter**
 
-## Building
-```bash
-dotnet build -c Release
-```
-
 ## License
 MIT
